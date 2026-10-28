@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Student Management App</string>
+    <string-array name="majors_array">
+        <item>Informatics</item>
+        <item>Information Systems</item>
+    </string-array>
+</resources>
